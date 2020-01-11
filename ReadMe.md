@@ -40,5 +40,3 @@ Copy **vector06.rom** to the root of SD card if you wish to use another BOOT ROM
 - Some applications on disks require Quasi-disk to be formatted (and refuse to work if not). In this case, you need to hold **CTRL** and shortly press **ALT+F11** key combination to automatically format Quasi-disk at MiscroDOS startup.
 - If both EDD and FDD are loaded then EDD has priority by default. To switch to FDD you need to hold down **SHIFT+F1+F2** and quickly press **F11**
 
-### Download precompiled binaries:
-Go to [releases](https://github.com/MiSTer-devel/Vector-06C_MiSTer/tree/master/releases) folder.
